@@ -6,7 +6,7 @@ Este proyecto esta hecho con Javascript, HTM, CCS, Bootstrap aplicando POO.
 * [linkedin](https://www.linkedin.com/in/fredy-jativa-145b7ab6/) 
 
 ## Ver ejemplo en vivo.
-- [mipagina](mipagina)
+- [https://fjativa.github.io/cita-veterinaria/](https://fjativa.github.io/cita-veterinaria/)
 
 ## Instalación.
 Este proyecto no necesita instalación.
